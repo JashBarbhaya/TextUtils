@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# TextUtils
+TextUtils is a React.js app for text editing with features like uppercase, lowercase, title case, clearing, copying, reversing, removing spaces, alphabetical order, and encryption/decryption. It also includes a dark mode for ease of use in low light. Simple and efficient, it’s ideal for quick text tasks.
+>>>>>>> 206dd8b20ed44ace160adf033033f71a280a6d80
